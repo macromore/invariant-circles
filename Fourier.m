@@ -1,5 +1,5 @@
 % For use and purpose: see documentation file
-% 
+%  
 % Dependencies:
 % N/A
 classdef Fourier
