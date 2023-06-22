@@ -1,6 +1,5 @@
 classdef FourierOperator
 % For use and purpose: see documentation file
-% 
 %
 % Dependencies:
 % N/A
