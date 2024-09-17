@@ -1,3 +1,6 @@
+%% numericalContinuation.m
+% 
+% Purpose: script
 % Preform analytic continuation and save the pertinent information.
 % 
 % Notes: 
@@ -12,9 +15,9 @@ clearAll
 % Other ideas for starting points are in parameters.m
 alpha = acos(-0.95);
 %%%% Period 1 % Use 10^-3 % To Grow delRhoFlip = 1
-% initialP = [0,.1]; 
+initialP = [0,.1]; 
 %%%% Period 7 % Use 10^-4 % To Grow delRhoFlip = 0
-initialP = [.3,-1.8];
+% initialP = [.3,-1.8];
 % initialP = [1.5,2];
 %%%% Period 1 Again % Use 10^-4? % To grow delRhoFlip = 1
 % initialP = [1.9,1.6]; 
@@ -39,25 +42,25 @@ maxModes = 310;          %Max Number of Modes
 % Number of points for plotting and computing initial parameterization
 numPoints = 1e4;
 % Largest value allowed to change rho
-maxRhoStep = 10^-3;
+maxRhoStep = 10^-3.5;
 % Do we need to replace rho with 1-rho
 rhoFlip = 1;
 % Do we need to subtract or add to rho (-1^delRhoFlip)
 delRhoFlip = 1; 
 % How small should be go on the steps 2^-maxpower
-maxPower = 2;
+maxPower = 20;
 % Error limit on rho
-rhoLimit = 16;       %10^(-rhoLimit)
+rhoLimit = 14;       %10^(-rhoLimit)
 % Error limit in Newton
 errorLimit = 14;     %10^(-errorLimit)
 % Error limit in tail of truncated series
-tailLimit = 14;
+tailLimit = 10;
 % Sobolev space H^m max
 sobolevMax = 10;
 % Conjugacy check max
 conjMax = 1000;
 % Attempt limit
-maxAttempts = 5;
+maxAttempts = 20;
 %% Example 1 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % alpha = acos(0.24);
 % initialP = [0.4,0];

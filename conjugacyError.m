@@ -15,7 +15,7 @@ function conjError = conjugacyError(rho, param, alpha, numberOfPoints)
             pConj = [evaluate(param{1,1},phase/numberOfPoints+K*rho); evaluate(param{2,1},phase/numberOfPoints+K*rho)];            
         end
 %         plot(pConj(1),pConj(2),'*b')
-        conjError(phase,k) = norm(pMap-pConj);
+        conjError(phase,k) = norm(pMap-pConj, inf);
         end
     end
     conjError = max(conjError,[],'all');

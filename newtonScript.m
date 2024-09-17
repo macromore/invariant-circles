@@ -6,8 +6,8 @@
 % the future.
 
 
-%P = [0; -2.65];
-%alpha = acos(-0.95);
+% P = [0; -2.65];
+% alpha = acos(-0.95);
 
 nu = 1.1;
 initialmodes = 5;
@@ -108,7 +108,7 @@ plot(perPts(1,:),perPts(2,:),'.k')
 % fprintf('\n')
 
 % Rho for acos(-.95)
-% rho = 0.001147323169818;
+rho = 0.001147323169818;
 % Rho for acos(.24)
 % rho = 0.190669478955379;
 % Rho for .8, 10^8 points

@@ -1,0 +1,609 @@
+Parameters: 
+P =                      [ 0.500000, 0.000000 ]
+alpha =                  1.32843047575593          probably acos(something)
+nu =                     1.1
+sobolev max space k      10
+initial number of modes  25
+Mode step                25
+points per circle        1000
+max tail size            1e-14
+max error                1e-14
+Conjugacy iterations     100
+rho flip                 1
+
+Computing the trajectory... 
+  Elapsed time is 0.000461 seconds.
+
+How many periodic tori? 5
+
+Separate the trajecotory... 
+    Elapsed time is 3.034982 seconds.
+
+Finding periodic points ... 
+    Periodic point conjugacy error is 0.001211626851481
+Elapsed time is 3.104718 seconds.
+
+Compute the rotation number... 
+Number of points per tori         1000
+  Rho approximates as 0.190669525885608. 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 3.132401 seconds.
+Number of points per tori         2000
+  Rho approximates as 0.190669478952384. 
+  Delta rho:          4.693322e-08 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 3.137589 seconds.
+Number of points per tori         3000
+  Rho approximates as 0.190669478952207. 
+  Delta rho:          1.766087e-13 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 3.142880 seconds.
+Number of points per tori         4000
+  Rho approximates as 0.190669478955221. 
+  Delta rho:          3.014089e-12 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 3.149127 seconds.
+Number of points per tori         5000
+  Rho approximates as 0.190669478955267. 
+  Delta rho:          4.582446e-14 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 3.165215 seconds.
+Number of points per tori         6000
+  Rho approximates as 0.190669478955262. 
+  Delta rho:          5.023759e-15 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 3.174603 seconds.
+Number of points per tori         7000
+  Rho approximates as 0.190669478955263. 
+  Delta rho:          8.604228e-16 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 3.183494 seconds.
+Number of points per tori         8000
+  Rho approximates as 0.190669478955263. 
+  Delta rho:          4.440892e-16 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 3.196891 seconds.
+Number of points per tori         9000
+  Rho approximates as 0.190669478955264. 
+  Delta rho:          2.775558e-17 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 3.208360 seconds.
+The rotation number is approximately 0.190669478955264.
+  Elapsed time is 3.208884 seconds.
+
+Compute the initial Fourier modes with 25 initial modes... 
+  Elapsed time is 3.367622 seconds.
+
+Flipped rho is 0.809330521044736.
+
+Compute initial parameterization error with nu = 1.1 ... 
+    Error           = 1.939049e-04 
+     Conjugacy Error = 6.506027e-05 
+Elapsed time is 3.547483 seconds.
+
+
+Numer of modes : 25
+  Carry out newton-like method...
+    Iteration 1, error = 2.593672e-06 
+       conjugacy error = 8.533978e-05 
+    Iteration 2, error = 4.379517e-11 
+       conjugacy error = 8.440994e-05 
+    Iteration 3, error = 2.694962e-16 
+       conjugacy error = 8.440995e-05 
+    Iteration 4, error = 1.789430e-16 
+       conjugacy error = 8.440995e-05 
+    Iteration 5, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.883070e-01 
+    k = 2 norm is 7.812838e-01 
+    k = 3 norm is 7.926975e+00 
+    k = 4 norm is 1.738304e+02 
+    k = 5 norm is 3.902793e+03 
+    k = 6 norm is 8.838194e+04 
+    k = 7 norm is 2.017035e+06 
+    k = 8 norm is 4.637463e+07 
+    k = 9 norm is 1.073842e+09 
+    k = 10 norm is 2.503598e+10 
+  Tail size: 9.858785e-05 
+Elapsed time is 4.361596 seconds.
+
+Numer of modes : 50
+  Carry out newton-like method...
+    Iteration 1, error = 4.892906e-07 
+       conjugacy error = 2.940314e-06 
+    Iteration 2, error = 7.824799e-12 
+       conjugacy error = 2.975640e-06 
+    Iteration 3, error = 2.569579e-16 
+       conjugacy error = 2.975640e-06 
+    Iteration 4, error = 1.729250e-16 
+       conjugacy error = 2.975640e-06 
+    Iteration 5, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881936e-01 
+    k = 2 norm is 7.537702e-01 
+    k = 3 norm is 1.054763e+01 
+    k = 4 norm is 4.238476e+02 
+    k = 5 norm is 1.801957e+04 
+    k = 6 norm is 7.783899e+05 
+    k = 7 norm is 3.384494e+07 
+    k = 8 norm is 1.477556e+09 
+    k = 9 norm is 6.472602e+10 
+    k = 10 norm is 2.844841e+12 
+  Tail size: 2.001895e-06 
+Elapsed time is 5.337393 seconds.
+
+Numer of modes : 75
+  Carry out newton-like method...
+    Iteration 1, error = 2.855467e-05 
+       conjugacy error = 1.735717e-07 
+    Iteration 2, error = 2.767457e-10 
+       conjugacy error = 9.730445e-08 
+    Iteration 3, error = 3.205358e-16 
+       conjugacy error = 9.730454e-08 
+    Iteration 4, error = 1.834515e-16 
+       conjugacy error = 9.730454e-08 
+    Iteration 5, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881867e-01 
+    k = 2 norm is 7.425334e-01 
+    k = 3 norm is 8.952360e+00 
+    k = 4 norm is 3.536161e+02 
+    k = 5 norm is 1.536297e+04 
+    k = 6 norm is 7.040690e+05 
+    k = 7 norm is 3.430341e+07 
+    k = 8 norm is 1.805547e+09 
+    k = 9 norm is 1.028687e+11 
+    k = 10 norm is 6.236864e+12 
+  Tail size: 2.206044e-08 
+Elapsed time is 6.940493 seconds.
+
+Numer of modes : 100
+  Carry out newton-like method...
+    Iteration 1, error = 2.242233e-04 
+       conjugacy error = 1.368977e-07 
+    Iteration 2, error = 1.637069e-09 
+       conjugacy error = 6.039106e-09 
+    Iteration 3, error = 2.530440e-16 
+       conjugacy error = 6.039093e-09 
+    Iteration 4, error = 2.195624e-16 
+       conjugacy error = 6.039094e-09 
+    Iteration 5, error = 1.505447e-16 
+       conjugacy error = 6.039093e-09 
+    Iteration 6, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881867e-01 
+    k = 2 norm is 7.425391e-01 
+    k = 3 norm is 8.956810e+00 
+    k = 4 norm is 3.544974e+02 
+    k = 5 norm is 1.551582e+04 
+    k = 6 norm is 7.287379e+05 
+    k = 7 norm is 3.795654e+07 
+    k = 8 norm is 2.287138e+09 
+    k = 9 norm is 1.590926e+11 
+    k = 10 norm is 1.221082e+13 
+  Tail size: 8.782362e-10 
+Elapsed time is 9.917506 seconds.
+
+Numer of modes : 125
+  Carry out newton-like method...
+    Iteration 1, error = 3.678267e-04 
+       conjugacy error = 1.363067e-07 
+    Iteration 2, error = 2.321240e-08 
+       conjugacy error = 8.483658e-10 
+    Iteration 3, error = 1.810648e-16 
+       conjugacy error = 8.490851e-10 
+    Iteration 4, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881867e-01 
+    k = 2 norm is 7.425404e-01 
+    k = 3 norm is 8.957958e+00 
+    k = 4 norm is 3.548179e+02 
+    k = 5 norm is 1.559853e+04 
+    k = 6 norm is 7.486664e+05 
+    k = 7 norm is 4.218588e+07 
+    k = 8 norm is 3.024716e+09 
+    k = 9 norm is 2.659452e+11 
+    k = 10 norm is 2.601343e+13 
+  Tail size: 1.390962e-10 
+Elapsed time is 13.168291 seconds.
+
+Numer of modes : 150
+  Carry out newton-like method...
+    Iteration 1, error = 5.122397e-04 
+       conjugacy error = 1.364119e-07 
+    Iteration 2, error = 4.023206e-07 
+       conjugacy error = 9.556523e-11 
+    Iteration 3, error = 2.179514e-16 
+       conjugacy error = 9.352014e-11 
+    Iteration 4, error = 1.207989e-16 
+       conjugacy error = 9.351969e-11 
+    Iteration 5, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881867e-01 
+    k = 2 norm is 7.425405e-01 
+    k = 3 norm is 8.957980e+00 
+    k = 4 norm is 3.548251e+02 
+    k = 5 norm is 1.560081e+04 
+    k = 6 norm is 7.493555e+05 
+    k = 7 norm is 4.236890e+07 
+    k = 8 norm is 3.063874e+09 
+    k = 9 norm is 2.729147e+11 
+    k = 10 norm is 2.714593e+13 
+  Tail size: 3.243544e-11 
+Elapsed time is 19.246524 seconds.
+
+Numer of modes : 175
+  Carry out newton-like method...
+    Iteration 1, error = 6.368964e-04 
+       conjugacy error = 1.364387e-07 
+    Iteration 2, error = 3.787032e-06 
+       conjugacy error = 2.565993e-10 
+    Iteration 3, error = 2.004308e-14 
+       conjugacy error = 2.545897e-10 
+    Iteration 4, error = 3.357823e-16 
+       conjugacy error = 2.545897e-10 
+    Iteration 5, error = 2.168696e-16 
+       conjugacy error = 2.545896e-10 
+    Iteration 6, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881867e-01 
+    k = 2 norm is 7.425407e-01 
+    k = 3 norm is 8.958497e+00 
+    k = 4 norm is 3.551187e+02 
+    k = 5 norm is 1.575082e+04 
+    k = 6 norm is 8.172911e+05 
+    k = 7 norm is 6.487904e+07 
+    k = 8 norm is 8.017195e+09 
+    k = 9 norm is 1.151361e+12 
+    k = 10 norm is 1.712964e+14 
+  Tail size: 2.372339e-10 
+Elapsed time is 30.252216 seconds.
+
+Numer of modes : 200
+  Carry out newton-like method...
+    Iteration 1, error = 1.089823e-03 
+       conjugacy error = 1.364337e-07 
+    Iteration 2, error = 1.705047e-05 
+       conjugacy error = 4.413923e-11 
+    Iteration 3, error = 1.091291e-13 
+       conjugacy error = 4.427694e-11 
+    Iteration 4, error = 2.995830e-16 
+       conjugacy error = 4.427678e-11 
+    Iteration 5, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881867e-01 
+    k = 2 norm is 7.425407e-01 
+    k = 3 norm is 8.958440e+00 
+    k = 4 norm is 3.550887e+02 
+    k = 5 norm is 1.573800e+04 
+    k = 6 norm is 8.134723e+05 
+    k = 7 norm is 6.464054e+07 
+    k = 8 norm is 8.230058e+09 
+    k = 9 norm is 1.249298e+12 
+    k = 10 norm is 2.014210e+14 
+  Tail size: 2.993276e-11 
+Elapsed time is 42.240389 seconds.
+
+Numer of modes : 225
+  Carry out newton-like method...
+    Iteration 1, error = 1.438025e-03 
+       conjugacy error = 1.364299e-07 
+    Iteration 2, error = 9.412563e-05 
+       conjugacy error = 3.231383e-12 
+    Iteration 3, error = 1.874934e-13 
+       conjugacy error = 1.381999e-12 
+    Iteration 4, error = 3.543819e-16 
+       conjugacy error = 1.382201e-12 
+    Iteration 5, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881867e-01 
+    k = 2 norm is 7.425407e-01 
+    k = 3 norm is 8.958430e+00 
+    k = 4 norm is 3.550807e+02 
+    k = 5 norm is 1.573192e+04 
+    k = 6 norm is 8.093720e+05 
+    k = 7 norm is 6.277772e+07 
+    k = 8 norm is 7.689678e+09 
+    k = 9 norm is 1.116126e+12 
+    k = 10 norm is 1.701794e+14 
+  Tail size: 2.371982e-13 
+Elapsed time is 58.087547 seconds.
+
+Numer of modes : 250
+  Carry out newton-like method...
+    Iteration 1, error = 2.130395e-03 
+       conjugacy error = 1.364299e-07 
+    Iteration 2, error = 3.401425e-04 
+       conjugacy error = 2.629050e-12 
+    Iteration 3, error = 6.124952e-13 
+       conjugacy error = 1.425970e-13 
+    Iteration 4, error = 3.893900e-16 
+       conjugacy error = 1.426033e-13 
+    Iteration 5, error = 3.360549e-16 
+       conjugacy error = 1.425970e-13 
+    Iteration 6, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881867e-01 
+    k = 2 norm is 7.425407e-01 
+    k = 3 norm is 8.958430e+00 
+    k = 4 norm is 3.550807e+02 
+    k = 5 norm is 1.573192e+04 
+    k = 6 norm is 8.093731e+05 
+    k = 7 norm is 6.277847e+07 
+    k = 8 norm is 7.690025e+09 
+    k = 9 norm is 1.116260e+12 
+    k = 10 norm is 1.702287e+14 
+  Tail size: 1.550056e-14 
+Elapsed time is 85.264523 seconds.
+
+Numer of modes : 275
+  Carry out newton-like method...
+    Iteration 1, error = 2.631088e-03 
+       conjugacy error = 1.364299e-07 
+    Iteration 2, error = 1.294301e-03 
+       conjugacy error = 2.617883e-12 
+    Iteration 3, error = 1.063440e-11 
+       conjugacy error = 1.958268e-14 
+    Iteration 4, error = 1.000880e-15 
+       conjugacy error = 1.983228e-14 
+    Iteration 5, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881867e-01 
+    k = 2 norm is 7.425407e-01 
+    k = 3 norm is 8.958430e+00 
+    k = 4 norm is 3.550807e+02 
+    k = 5 norm is 1.573192e+04 
+    k = 6 norm is 8.093732e+05 
+    k = 7 norm is 6.277857e+07 
+    k = 8 norm is 7.690074e+09 
+    k = 9 norm is 1.116281e+12 
+    k = 10 norm is 1.702376e+14 
+  Tail size: 2.291044e-15 
+Elapsed time is 115.151533 seconds.
+
+Numer of modes : 300
+  Carry out newton-like method...
+    Iteration 1, error = 3.182712e-03 
+       conjugacy error = 1.364299e-07 
+    Iteration 2, error = 5.748798e-03 
+       conjugacy error = 2.620663e-12 
+    Iteration 3, error = 2.391478e-09 
+       conjugacy error = 4.553435e-15 
+    Iteration 4, error = 1.079910e-15 
+       conjugacy error = 5.107174e-15 
+    Iteration 5, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881867e-01 
+    k = 2 norm is 7.425407e-01 
+    k = 3 norm is 8.958430e+00 
+    k = 4 norm is 3.550807e+02 
+    k = 5 norm is 1.573192e+04 
+    k = 6 norm is 8.093732e+05 
+    k = 7 norm is 6.277857e+07 
+    k = 8 norm is 7.690075e+09 
+    k = 9 norm is 1.116282e+12 
+    k = 10 norm is 1.702380e+14 
+  Tail size: 6.225352e-16 
+Elapsed time is 162.470469 seconds.
+
+Numer of modes : 325
+  Carry out newton-like method...
+    Iteration 1, error = 3.726520e-03 
+       conjugacy error = 1.364299e-07 
+    Iteration 2, error = 1.497895e-02 
+       conjugacy error = 2.620077e-12 
+    Iteration 3, error = 9.904617e-09 
+       conjugacy error = 3.445999e-15 
+    Iteration 4, error = 3.331197e-15 
+       conjugacy error = 3.670576e-15 
+    Iteration 5, error = 2.897690e-15 
+       conjugacy error = 3.444506e-15 
+    Iteration 6, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881867e-01 
+    k = 2 norm is 7.425407e-01 
+    k = 3 norm is 8.958430e+00 
+    k = 4 norm is 3.550807e+02 
+    k = 5 norm is 1.573192e+04 
+    k = 6 norm is 8.093732e+05 
+    k = 7 norm is 6.277858e+07 
+    k = 8 norm is 7.690081e+09 
+    k = 9 norm is 1.116286e+12 
+    k = 10 norm is 1.702402e+14 
+  Tail size: 1.752171e-15 
+Elapsed time is 234.303153 seconds.
+
+Numer of modes : 350
+  Carry out newton-like method...
+    Iteration 1, error = 4.574562e-03 
+       conjugacy error = 1.364299e-07 
+    Iteration 2, error = 4.556066e-02 
+       conjugacy error = 2.622931e-12 
+    Iteration 3, error = 1.211279e-07 
+       conjugacy error = 2.779060e-15 
+    Iteration 4, error = 2.168478e-14 
+       conjugacy error = 2.893163e-15 
+    Iteration 5, error = 1.443425e-14 
+       conjugacy error = 2.746614e-15 
+    Iteration 6, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881867e-01 
+    k = 2 norm is 7.425407e-01 
+    k = 3 norm is 8.958430e+00 
+    k = 4 norm is 3.550807e+02 
+    k = 5 norm is 1.573192e+04 
+    k = 6 norm is 8.093732e+05 
+    k = 7 norm is 6.277858e+07 
+    k = 8 norm is 7.690084e+09 
+    k = 9 norm is 1.116288e+12 
+    k = 10 norm is 1.702417e+14 
+  Tail size: 5.469531e-16 
+Elapsed time is 325.256789 seconds.
+
+Numer of modes : 375
+  Carry out newton-like method...
+    Iteration 1, error = 5.160148e-03 
+       conjugacy error = 1.364299e-07 
+    Iteration 2, error = 7.074458e-02 
+       conjugacy error = 2.622908e-12 
+    Iteration 3, error = 2.543660e-07 
+       conjugacy error = 2.966745e-15 
+    Iteration 4, error = 2.840261e-14 
+       conjugacy error = 3.107656e-15 
+    Iteration 5, error = 1.984885e-14 
+       conjugacy error = 3.095361e-15 
+    Iteration 6, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881867e-01 
+    k = 2 norm is 7.425407e-01 
+    k = 3 norm is 8.958430e+00 
+    k = 4 norm is 3.550807e+02 
+    k = 5 norm is 1.573192e+04 
+    k = 6 norm is 8.093732e+05 
+    k = 7 norm is 6.277858e+07 
+    k = 8 norm is 7.690084e+09 
+    k = 9 norm is 1.116288e+12 
+    k = 10 norm is 1.702422e+14 
+  Tail size: 7.754145e-18 
+Elapsed time is 449.380259 seconds.
+
+Numer of modes : 400
+  Carry out newton-like method...
+    Iteration 1, error = 6.620033e-03 
+       conjugacy error = 1.364299e-07 
+    Iteration 2, error = 1.285102e-01 
+       conjugacy error = 2.621683e-12 
+    Iteration 3, error = 1.266154e-06 
+       conjugacy error = 3.649529e-15 
+    Iteration 4, error = 4.408732e-14 
+       conjugacy error = 3.202511e-15 
+    Iteration 5, error = 3.784559e-14 
+       conjugacy error = 3.098890e-15 
+    Iteration 6, error = 3.465163e-14 
+       conjugacy error = 3.070763e-15 
+    Iteration 7, error = 3.112331e-14 
+       conjugacy error = 3.681515e-15 
+    Iteration 8, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881867e-01 
+    k = 2 norm is 7.425407e-01 
+    k = 3 norm is 8.958430e+00 
+    k = 4 norm is 3.550807e+02 
+    k = 5 norm is 1.573192e+04 
+    k = 6 norm is 8.093732e+05 
+    k = 7 norm is 6.277858e+07 
+    k = 8 norm is 7.690084e+09 
+    k = 9 norm is 1.116288e+12 
+    k = 10 norm is 1.702422e+14 
+  Tail size: 6.763089e-19 
+Elapsed time is 678.482184 seconds.
+
+Numer of modes : 425
+  Carry out newton-like method...
+    Iteration 1, error = 7.593186e-03 
+       conjugacy error = 1.364299e-07 
+    Iteration 2, error = 2.002283e-01 
+       conjugacy error = 2.621359e-12 
+    Iteration 3, error = 3.377333e-06 
+       conjugacy error = 3.048621e-15 
+    Iteration 4, error = 6.184781e-14 
+       conjugacy error = 2.857888e-15 
+    Iteration 5, error = 4.948067e-14 
+       conjugacy error = 3.121023e-15 
+    Iteration 6, error = 3.657702e-14 
+       conjugacy error = 3.372283e-15 
+    Iteration 7, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881867e-01 
+    k = 2 norm is 7.425407e-01 
+    k = 3 norm is 8.958430e+00 
+    k = 4 norm is 3.550807e+02 
+    k = 5 norm is 1.573192e+04 
+    k = 6 norm is 8.093732e+05 
+    k = 7 norm is 6.277858e+07 
+    k = 8 norm is 7.690084e+09 
+    k = 9 norm is 1.116288e+12 
+    k = 10 norm is 1.702422e+14 
+  Tail size: 8.244756e-20 
+Elapsed time is 908.661699 seconds.
+
+Numer of modes : 450
+  Carry out newton-like method...
+    Iteration 1, error = 8.670210e-03 
+       conjugacy error = 1.364299e-07 
+    Iteration 2, error = 3.888905e-01 
+       conjugacy error = 2.622019e-12 
+    Iteration 3, error = 1.920325e-05 
+       conjugacy error = 3.249430e-15 
+    Iteration 4, error = 7.807093e-14 
+       conjugacy error = 3.527664e-15 
+    Iteration 5, error = 6.501870e-14 
+       conjugacy error = 3.332579e-15 
+    Iteration 6, error = 5.467221e-14 
+       conjugacy error = 3.036942e-15 
+    Iteration 7, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881867e-01 
+    k = 2 norm is 7.425407e-01 
+    k = 3 norm is 8.958430e+00 
+    k = 4 norm is 3.550807e+02 
+    k = 5 norm is 1.573192e+04 
+    k = 6 norm is 8.093732e+05 
+    k = 7 norm is 6.277858e+07 
+    k = 8 norm is 7.690084e+09 
+    k = 9 norm is 1.116288e+12 
+    k = 10 norm is 1.702422e+14 
+  Tail size: 2.654379e-20 
+Elapsed time is 1191.646101 seconds.
+
+Numer of modes : 475
+  Carry out newton-like method...
+    Iteration 1, error = 9.513647e-03 
+       conjugacy error = 1.364299e-07 
+    Iteration 2, error = 7.219350e-01 
+       conjugacy error = 2.621581e-12 
+    Iteration 3, error = 7.430499e-05 
+       conjugacy error = 3.175364e-15 
+    Iteration 4, error = 1.654059e-13 
+       conjugacy error = 3.486195e-15 
+    Iteration 5, error = 1.259316e-13 
+       conjugacy error = 3.347770e-15 
+    Iteration 6, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881867e-01 
+    k = 2 norm is 7.425407e-01 
+    k = 3 norm is 8.958430e+00 
+    k = 4 norm is 3.550807e+02 
+    k = 5 norm is 1.573192e+04 
+    k = 6 norm is 8.093732e+05 
+    k = 7 norm is 6.277858e+07 
+    k = 8 norm is 7.690084e+09 
+    k = 9 norm is 1.116288e+12 
+    k = 10 norm is 1.702422e+14 
+  Tail size: 4.271162e-20 
+Elapsed time is 1477.117326 seconds.
+
+Numer of modes : 500
+  Carry out newton-like method...
+    Iteration 1, error = 1.089994e-02 
+       conjugacy error = 1.364299e-07 
+    Iteration 2, error = 2.540087e+00 
+       conjugacy error = 2.621487e-12 
+    Iteration 3, error = 8.687568e-04 
+       conjugacy error = 3.340966e-15 
+    Iteration 4, error = 5.177047e-13 
+       conjugacy error = 3.202392e-15 
+    Iteration 5, error limit exceeded 
+  Sobolev Norms:
+    k = 1 norm is 5.881867e-01 
+    k = 2 norm is 7.425407e-01 
+    k = 3 norm is 8.958430e+00 
+    k = 4 norm is 3.550807e+02 
+    k = 5 norm is 1.573192e+04 
+    k = 6 norm is 8.093732e+05 
+    k = 7 norm is 6.277858e+07 
+    k = 8 norm is 7.690084e+09 
+    k = 9 norm is 1.116288e+12 
+    k = 10 norm is 1.702422e+14 
+  Tail size: 7.238893e-21 
+Elapsed time is 1750.316976 seconds.

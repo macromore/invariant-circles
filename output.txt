@@ -1,0 +1,336 @@
+Parameters: 
+P =                      [ 0.400000, 0.000000 ]
+alpha =                  1.32843047575593          probably acos(something)
+nu =                     1.1
+sobolev max space m =    10
+initial number of modes  30
+Mode step                50
+points per circle        100
+maximum rho step         0.001
+minimum rho step         0.00025
+max tail size            1e-14
+max error                1e-14
+Conjugacy iterations     1000
+rho difference limit     1e-16 
+rho flip                 1
+direction of rho change  1
+
+Computing the trajectory... 
+  Elapsed time is 0.000411 seconds.
+
+How many periodic tori? 1
+
+Separate the trajecotory... 
+  Elapsed time is 2.362460 seconds.
+
+Finding periodic points ... 
+  Elapsed time is 2.364910 seconds.
+
+Compute the rotation number... 
+Number of points per tori         1000
+  Rho approximates as 0.206174514865714. 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 2.368371 seconds.
+Number of points per tori         2000
+  Rho approximates as 0.206174514865715. 
+  Delta rho:          1.665335e-16 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 2.369667 seconds.
+Number of points per tori         3000
+  Rho approximates as 0.206174514865714. 
+  Delta rho:          3.053113e-16 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 2.370796 seconds.
+Number of points per tori         4000
+  Rho approximates as 0.206174514865714. 
+  Delta rho:          8.326673e-17 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 2.372393 seconds.
+The rotation number is approximately 0.206174514865714.
+  Elapsed time is 2.372831 seconds.
+
+Compute the initial Fourier modes with 30 initial modes... 
+  {Insufficient number of outputs from right hand side of equal sign to satisfy assignment.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('numericalContinuation', 'D:\davitron\Dropbox\invCircles\Henon Map\numericalContinuation.m', 195)" style="font-weight:bold">numericalContinuation</a> (<a href="matlab: opentoline('D:\davitron\Dropbox\invCircles\Henon Map\numericalContinuation.m',195,0)">line 195</a>)
+   [param{1,k}, param{2,k}] = [truncate(param{1,k},initialModes),truncate(param{1,k},initialModes)];
+} 
+numericalContinuation
+Parameters: 
+P =                      [ 0.400000, 0.000000 ]
+alpha =                  1.32843047575593          probably acos(something)
+nu =                     1.1
+sobolev max space m =    10
+initial number of modes  30
+Mode step                50
+points per circle        100
+maximum rho step         0.001
+minimum rho step         0.00025
+max tail size            1e-14
+max error                1e-14
+Conjugacy iterations     1000
+rho difference limit     1e-16 
+rho flip                 1
+direction of rho change  1
+
+Computing the trajectory... 
+  Elapsed time is 0.011678 seconds.
+
+
+times =
+
+  Columns 1 through 6
+
+     0     1     2     3     4     5
+
+  Columns 7 through 12
+
+     6     7     8     9    10    11
+
+  Columns 13 through 18
+
+    12    13    14    15    16    17
+
+  Columns 19 through 24
+
+    18    19    20    21    22    23
+
+  Columns 25 through 30
+
+    24    25    26    27    28    29
+
+  Columns 31 through 36
+
+    30    31    32    33    34    35
+
+  Columns 37 through 42
+
+    36    37    38    39    40    41
+
+  Columns 43 through 48
+
+    42    43    44    45    46    47
+
+  Columns 49 through 54
+
+    48    49    50    51    52    53
+
+  Columns 55 through 60
+
+    54    55    56    57    58    59
+
+  Columns 61 through 66
+
+    60    61    62    63    64    65
+
+  Columns 67 through 72
+
+    66    67    68    69    70    71
+
+  Columns 73 through 78
+
+    72    73    74    75    76    77
+
+  Columns 79 through 84
+
+    78    79    80    81    82    83
+
+  Columns 85 through 90
+
+    84    85    86    87    88    89
+
+  Columns 91 through 96
+
+    90    91    92    93    94    95
+
+  Columns 97 through 100
+
+    96    97    98    99
+
+
+K =
+
+     1
+
+
+Separate the trajecotory... 
+  Elapsed time is 3.623325 seconds.
+
+Finding periodic points ... 
+  Elapsed time is 5.673479 seconds.
+
+Compute the rotation number... 
+Number of points per tori         1000
+  Rho approximates as 0.206274798977905. 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 6.581245 seconds.
+Number of points per tori         2000
+  Rho approximates as 0.206152097300884. 
+
+diffRho =
+
+   1.2270e-04
+
+  Delta rho:          1.227017e-04 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 6.585154 seconds.
+Number of points per tori         3000
+  Rho approximates as 0.206174219064048. 
+
+diffRho =
+
+   2.2122e-05
+
+  Delta rho:          2.212176e-05 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 6.591655 seconds.
+Number of points per tori         4000
+  Rho approximates as 0.206174498340142. 
+
+diffRho =
+
+   2.7928e-07
+
+  Delta rho:          2.792761e-07 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 6.600399 seconds.
+Number of points per tori         5000
+  Rho approximates as 0.206174514498918. 
+
+diffRho =
+
+   1.6159e-08
+
+  Delta rho:          1.615878e-08 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 6.620218 seconds.
+Number of points per tori         6000
+  Rho approximates as 0.206174514897873. 
+
+diffRho =
+
+   3.9895e-10
+
+  Delta rho:          3.989550e-10 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 6.627651 seconds.
+Number of points per tori         7000
+  Rho approximates as 0.206174514865602. 
+
+diffRho =
+
+   3.2271e-11
+
+  Delta rho:          3.227144e-11 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 6.628768 seconds.
+Number of points per tori         8000
+  Rho approximates as 0.206174514865631. 
+
+diffRho =
+
+   2.9116e-14
+
+  Delta rho:          2.911560e-14 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 6.629359 seconds.
+Number of points per tori         9000
+  Rho approximates as 0.206174514865721. 
+
+diffRho =
+
+   8.9956e-14
+
+  Delta rho:          8.995582e-14 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 6.630785 seconds.
+Number of points per tori         10000
+  Rho approximates as 0.206174514865714. 
+
+diffRho =
+
+   6.7168e-15
+
+  Delta rho:          6.716849e-15 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 6.631348 seconds.
+Number of points per tori         11000
+  Rho approximates as 0.206174514865715. 
+
+diffRho =
+
+   1.6653e-16
+
+  Delta rho:          1.665335e-16 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 6.631833 seconds.
+The rotation number is approximately 0.206174514865715.
+  Elapsed time is 6.632329 seconds.
+
+Compute the initial Fourier modes with 30 initial modes... 
+  
+yorkeSanderModes =
+
+     8
+
+Elapsed time is 7.726749 seconds.
+
+Flipped rho is 0.793825485134285.
+
+Compute initial parameterization error with nu = 1.1 ... 
+Error           = 8.176382e-02 
+  Conjugacy Error = 1.390931e-02 
+  Elapsed time is 13.809488 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 8.635979e-03 
+       conjugacy error = 3.583881e-03 
+    Iteration 2, error = 1.442788e-03 
+       conjugacy error = 7.742880e-04 
+    Iteration 3, error = 6.418088e-06 
+       conjugacy error = 2.875454e-06 
+    Iteration 4, error = 8.580958e-11 
+       conjugacy error = 5.378826e-11 
+    Iteration 5, error = 9.912622e-17 
+       conjugacy error = 3.010781e-12 
+    Iteration 6, error limit exceeded 
+
+  Sobolev Norms:
+    k = 1 norm is 3.932072e-01 
+    k = 2 norm is 5.758297e-01 
+    k = 3 norm is 9.834725e-01 
+    k = 4 norm is 2.773856e+00 
+    k = 5 norm is 1.276957e+01 
+    k = 6 norm is 7.269443e+01 
+    k = 7 norm is 4.809129e+02 
+    k = 8 norm is 3.714398e+03 
+    k = 9 norm is 3.347974e+04 
+    k = 10 norm is 3.463100e+05 
+  Tail size: 3.646980e-12 
+v
+{Unrecognized function or variable 'v'.
+} 
+v = [1,2,3,4,5,6]
+
+v =
+
+     1     2     3     4     5     6
+
+diff(v)
+
+ans =
+
+     1     1     1     1     1
+
+size(v)
+
+ans =
+
+     1     6
+
+size(diff(v))
+
+ans =
+
+     1     5
+

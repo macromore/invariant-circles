@@ -1,0 +1,164 @@
+Parameters: 
+P =                      [ 0.500000, 0.000000 ]
+alpha =                  1.32843047575593          probably acos(something)
+nu =                     1.001
+sobolev max space m =    10
+initial number of modes  70
+Mode step                20
+points per circle        5000
+max tail size            1e-14
+max error                1e-14
+Conjugacy iterations     100
+rho difference limit     1e-16 
+rho flip                 1
+Computing the trajectory... 
+  
+time1 =
+
+   8.0567e-04
+
+
+
+Separate the trajecotory... 
+  Elapsed time is 0.467703 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 0.001211626851481
+Elapsed time is 0.482480 seconds.
+
+Compute the rotation number... 
+Number of points per tori         1000
+  Rho approximates as 0.190669525885608. 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.485769 seconds.
+Number of points per tori         2000
+  Rho approximates as 0.190669478952384. 
+  Delta rho:          4.693322e-08 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.487680 seconds.
+Number of points per tori         3000
+  Rho approximates as 0.190669478952207. 
+  Delta rho:          1.763867e-13 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.491140 seconds.
+Number of points per tori         4000
+  Rho approximates as 0.190669478955221. 
+  Delta rho:          3.014200e-12 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.494023 seconds.
+Number of points per tori         5000
+  Rho approximates as 0.190669478955267. 
+  Delta rho:          4.510281e-14 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.497361 seconds.
+Number of points per tori         6000
+  Rho approximates as 0.190669478955262. 
+  Delta rho:          4.579670e-15 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.501127 seconds.
+Number of points per tori         7000
+  Rho approximates as 0.190669478955263. 
+  Delta rho:          1.054712e-15 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.505093 seconds.
+Number of points per tori         8000
+  Rho approximates as 0.190669478955264. 
+  Delta rho:          5.828671e-16 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.509854 seconds.
+Number of points per tori         9000
+  Rho approximates as 0.190669478955264. 
+  Delta rho:          4.718448e-16 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.515136 seconds.
+Number of points per tori         10000
+  Rho approximates as 0.190669478955264. 
+  Delta rho:          3.330669e-16 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.520821 seconds.
+Number of points per tori         11000
+  Rho approximates as 0.190669478955265. 
+  Delta rho:          4.440892e-16 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.526371 seconds.
+Number of points per tori         12000
+  Rho approximates as 0.190669478955265. 
+  Delta rho:          6.383782e-16 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.532880 seconds.
+Number of points per tori         13000
+  Rho approximates as 0.190669478955266. 
+  Delta rho:          7.771561e-16 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.543063 seconds.
+Number of points per tori         14000
+  Rho approximates as 0.190669478955266. 
+  Delta rho:          2.220446e-16 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.550496 seconds.
+Number of points per tori         15000
+  Rho approximates as 0.190669478955268. 
+  Delta rho:          1.193490e-15 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.558099 seconds.
+Number of points per tori         16000
+  Rho approximates as 0.190669478955268. 
+  Delta rho:          8.326673e-16 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.566365 seconds.
+Number of points per tori         17000
+  Rho approximates as 0.190669478955269. 
+  Delta rho:          3.053113e-16 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.574897 seconds.
+Number of points per tori         18000
+  Rho approximates as 0.19066947895527. 
+  Delta rho:          9.436896e-16 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.584104 seconds.
+Number of points per tori         19000
+  Rho approximates as 0.19066947895527. 
+  Delta rho:          8.326673e-17 
+  Machine epsilon is  2.775558e-17 
+  Elapsed time is 0.593901 seconds.
+The rotation number is approximately 0.19066947895527.
+  Elapsed time is 0.594089 seconds.
+
+Compute the initial Fourier modes with 70 initial modes... 
+  Elapsed time is 0.842741 seconds.
+
+Flipped rho is 0.80933052104473.
+
+Compute initial parameterization error with nu = 1.0 ... 
+Error           = 3.660829e-04 
+  Conjugacy Error = 2.802957e-04 
+  Elapsed time is 1.194819 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 7.682567e-06 
+       conjugacy error = 5.504670e-06 
+    Iteration 2, error = 1.180445e-06 
+       conjugacy error = 9.713155e-07 
+    Iteration 3, error = 9.748058e-12 
+       conjugacy error = 3.447660e-07 
+    Iteration 4, error = 1.612547e-16 
+       conjugacy error = 3.447666e-07 
+    Iteration 5, error limit exceeded 
+
+
+NewtonTime =
+
+    0.5504
+
+  Sobolev Norms:
+    k = 1 norm is 5.881868e-01 
+    k = 2 norm is 7.427328e-01 
+    k = 3 norm is 9.002768e+00 
+    k = 4 norm is 3.580192e+02 
+    k = 5 norm is 1.574629e+04 
+    k = 6 norm is 7.372393e+05 
+    k = 7 norm is 3.706053e+07 
+    k = 8 norm is 2.019935e+09 
+    k = 9 norm is 1.184132e+11 
+    k = 10 norm is 7.305388e+12 
+  Tail size: 2.376175e-07 

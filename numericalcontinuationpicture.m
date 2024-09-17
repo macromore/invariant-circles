@@ -16,14 +16,14 @@ initialPs = [[0,0.1,1];[0.3,-1.8,7];[2,1.6,1];[2.1,2.7,19];[2.2,2.7,1];[2.3,2.7,
 % Banach Space Parameter
 nu = 1.1;
 % Initial number of modes, how many to add, and maximum number of modes
-initialModes = 15;
+initialModes = 10;
 modeStep = 50;
 maxModes = 310;
 % Number of points for plotting and computing initial parameterization
 numPoints = 1e4;
 % Do we need to replace rho with 1-rho
 rhoFlip = 1; 
-% How small should be go on the steps 2^-maxpower
+% How small should be go on the steps 10^-maxpower
 maxPower = 20;
 % Error limit on rho
 rhoLimit = 14;

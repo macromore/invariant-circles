@@ -1,0 +1,488 @@
+Parameters: 
+P =                      [ 0.000000, -2.650000 ]
+alpha =                  2.82403222429827          probably acos(something)
+nu =                     1.1
+sobolev max space k      10
+initial number of modes  25
+Mode step                25
+points per circle        1000
+max tail size            1e-14
+max error                1e-14
+Conjugacy iterations     100
+rho flip                 1
+
+Computing the trajectory... 
+  Elapsed time is 0.005259 seconds.
+
+How many periodic tori? 120
+
+Separate the trajecotory... 
+    Elapsed time is 2.164021 seconds.
+
+Finding periodic points ... 
+    Periodic point conjugacy error is 0.000172224254389
+Elapsed time is 2.601629 seconds.
+
+Compute the rotation number... 
+Number of points per tori         1000
+  Rho approximates as 0.00114732257677358. 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 2.664772 seconds.
+Number of points per tori         2000
+  Rho approximates as 0.00114732316961974. 
+  Delta rho:          5.928462e-10 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 2.719431 seconds.
+Number of points per tori         3000
+  Rho approximates as 0.00114732316980818. 
+  Delta rho:          1.884352e-13 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 2.799730 seconds.
+Number of points per tori         4000
+  Rho approximates as 0.00114732316994827. 
+  Delta rho:          1.400900e-13 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 2.914426 seconds.
+Number of points per tori         5000
+  Rho approximates as 0.00114732316995792. 
+  Delta rho:          9.653953e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 3.088246 seconds.
+Number of points per tori         6000
+  Rho approximates as 0.00114732316985433. 
+  Delta rho:          1.035853e-13 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 3.303553 seconds.
+Number of points per tori         7000
+  Rho approximates as 0.00114732316973437. 
+  Delta rho:          1.199629e-13 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 3.733287 seconds.
+Number of points per tori         8000
+  Rho approximates as 0.0011473231697124. 
+  Delta rho:          2.196702e-14 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 4.008659 seconds.
+Number of points per tori         9000
+  Rho approximates as 0.00114732316978792. 
+  Delta rho:          7.551034e-14 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 4.256542 seconds.
+Number of points per tori         10000
+  Rho approximates as 0.00114732316986903. 
+  Delta rho:          8.111524e-14 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 4.510079 seconds.
+Number of points per tori         11000
+  Rho approximates as 0.00114732316988529. 
+  Delta rho:          1.625544e-14 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 4.846718 seconds.
+Number of points per tori         12000
+  Rho approximates as 0.00114732316984432. 
+  Delta rho:          4.096159e-14 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 5.173410 seconds.
+Number of points per tori         13000
+  Rho approximates as 0.00114732316980288. 
+  Delta rho:          4.144363e-14 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 5.515006 seconds.
+Number of points per tori         14000
+  Rho approximates as 0.00114732316980012. 
+  Delta rho:          2.757993e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 5.854883 seconds.
+Number of points per tori         15000
+  Rho approximates as 0.00114732316982608. 
+  Delta rho:          2.595558e-14 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 6.316952 seconds.
+Number of points per tori         16000
+  Rho approximates as 0.00114732316984623. 
+  Delta rho:          2.014968e-14 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 6.712817 seconds.
+Number of points per tori         17000
+  Rho approximates as 0.00114732316984179. 
+  Delta rho:          4.440025e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 7.170117 seconds.
+Number of points per tori         18000
+  Rho approximates as 0.00114732316982159. 
+  Delta rho:          2.020259e-14 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 7.609353 seconds.
+Number of points per tori         19000
+  Rho approximates as 0.00114732316980366. 
+  Delta rho:          1.792750e-14 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 8.092681 seconds.
+Number of points per tori         20000
+  Rho approximates as 0.0011473231697959. 
+  Delta rho:          7.753997e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 8.593053 seconds.
+Number of points per tori         21000
+  Rho approximates as 0.00114732316979442. 
+  Delta rho:          1.483189e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 9.164696 seconds.
+Number of points per tori         22000
+  Rho approximates as 0.00114732316979323. 
+  Delta rho:          1.191972e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 9.773281 seconds.
+Number of points per tori         23000
+  Rho approximates as 0.001147323169791. 
+  Delta rho:          2.230204e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 10.402522 seconds.
+Number of points per tori         24000
+  Rho approximates as 0.0011473231697899. 
+  Delta rho:          1.099598e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 11.074027 seconds.
+Number of points per tori         25000
+  Rho approximates as 0.00114732316979171. 
+  Delta rho:          1.808883e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 11.812139 seconds.
+Number of points per tori         26000
+  Rho approximates as 0.0011473231697963. 
+  Delta rho:          4.596800e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 12.827445 seconds.
+Number of points per tori         27000
+  Rho approximates as 0.00114732316980268. 
+  Delta rho:          6.379446e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 13.903203 seconds.
+Number of points per tori         28000
+  Rho approximates as 0.00114732316981008. 
+  Delta rho:          7.393608e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 15.110144 seconds.
+Number of points per tori         29000
+  Rho approximates as 0.00114732316981798. 
+  Delta rho:          7.902533e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 16.207248 seconds.
+Number of points per tori         30000
+  Rho approximates as 0.00114732316982574. 
+  Delta rho:          7.763104e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 17.453326 seconds.
+Number of points per tori         31000
+  Rho approximates as 0.00114732316983287. 
+  Delta rho:          7.123208e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 18.677159 seconds.
+Number of points per tori         32000
+  Rho approximates as 0.00114732316983901. 
+  Delta rho:          6.146342e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 19.994631 seconds.
+Number of points per tori         33000
+  Rho approximates as 0.00114732316984427. 
+  Delta rho:          5.256429e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 21.317774 seconds.
+Number of points per tori         34000
+  Rho approximates as 0.00114732316984884. 
+  Delta rho:          4.574249e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 23.044243 seconds.
+Number of points per tori         35000
+  Rho approximates as 0.00114732316985301. 
+  Delta rho:          4.166806e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 24.758151 seconds.
+Number of points per tori         36000
+  Rho approximates as 0.00114732316985701. 
+  Delta rho:          3.997453e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 26.905268 seconds.
+Number of points per tori         37000
+  Rho approximates as 0.00114732316986107. 
+  Delta rho:          4.058602e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 28.514770 seconds.
+Number of points per tori         38000
+  Rho approximates as 0.00114732316986531. 
+  Delta rho:          4.246603e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 30.210158 seconds.
+Number of points per tori         39000
+  Rho approximates as 0.00114732316986983. 
+  Delta rho:          4.521123e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 32.328496 seconds.
+Number of points per tori         40000
+  Rho approximates as 0.0011473231698747. 
+  Delta rho:          4.863514e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 33.762124 seconds.
+Number of points per tori         41000
+  Rho approximates as 0.00114732316987983. 
+  Delta rho:          5.134781e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 35.559677 seconds.
+Number of points per tori         42000
+  Rho approximates as 0.00114732316988521. 
+  Delta rho:          5.376559e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 37.662953 seconds.
+Number of points per tori         43000
+  Rho approximates as 0.0011473231698908. 
+  Delta rho:          5.591231e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 39.224200 seconds.
+Number of points per tori         44000
+  Rho approximates as 0.00114732316989652. 
+  Delta rho:          5.715263e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 41.002868 seconds.
+Number of points per tori         45000
+  Rho approximates as 0.00114732316990233. 
+  Delta rho:          5.814143e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 43.716888 seconds.
+Number of points per tori         46000
+  Rho approximates as 0.00114732316990817. 
+  Delta rho:          5.840380e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 46.276295 seconds.
+Number of points per tori         47000
+  Rho approximates as 0.00114732316991401. 
+  Delta rho:          5.842115e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 49.115992 seconds.
+Number of points per tori         48000
+  Rho approximates as 0.00114732316991982. 
+  Delta rho:          5.807204e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 51.864309 seconds.
+Number of points per tori         49000
+  Rho approximates as 0.00114732316992551. 
+  Delta rho:          5.692929e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 54.017834 seconds.
+Number of points per tori         50000
+  Rho approximates as 0.00114732316993106. 
+  Delta rho:          5.544827e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 56.955979 seconds.
+Number of points per tori         51000
+  Rho approximates as 0.00114732316993638. 
+  Delta rho:          5.326685e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 60.041699 seconds.
+Number of points per tori         52000
+  Rho approximates as 0.00114732316994145. 
+  Delta rho:          5.063224e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 62.656675 seconds.
+Number of points per tori         53000
+  Rho approximates as 0.0011473231699462. 
+  Delta rho:          4.757045e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 65.951168 seconds.
+Number of points per tori         54000
+  Rho approximates as 0.00114732316995063. 
+  Delta rho:          4.430701e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 68.627822 seconds.
+Number of points per tori         55000
+  Rho approximates as 0.00114732316995472. 
+  Delta rho:          4.086358e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 71.331072 seconds.
+Number of points per tori         56000
+  Rho approximates as 0.0011473231699585. 
+  Delta rho:          3.782998e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 74.225073 seconds.
+Number of points per tori         57000
+  Rho approximates as 0.00114732316996205. 
+  Delta rho:          3.546859e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 77.007591 seconds.
+Number of points per tori         58000
+  Rho approximates as 0.00114732316996541. 
+  Delta rho:          3.355389e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 79.736735 seconds.
+Number of points per tori         59000
+  Rho approximates as 0.0011473231699686. 
+  Delta rho:          3.193626e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 82.535817 seconds.
+Number of points per tori         60000
+  Rho approximates as 0.00114732316997176. 
+  Delta rho:          3.156329e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 85.488465 seconds.
+Number of points per tori         61000
+  Rho approximates as 0.00114732316997488. 
+  Delta rho:          3.122502e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 88.522996 seconds.
+Number of points per tori         62000
+  Rho approximates as 0.00114732316997807. 
+  Delta rho:          3.190156e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 91.359489 seconds.
+Number of points per tori         63000
+  Rho approximates as 0.0011473231699813. 
+  Delta rho:          3.227019e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 94.168731 seconds.
+Number of points per tori         64000
+  Rho approximates as 0.00114732316998461. 
+  Delta rho:          3.314406e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 97.185873 seconds.
+Number of points per tori         65000
+  Rho approximates as 0.00114732316998799. 
+  Delta rho:          3.379241e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 100.254779 seconds.
+Number of points per tori         66000
+  Rho approximates as 0.00114732316999139. 
+  Delta rho:          3.404829e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 103.561982 seconds.
+Number of points per tori         67000
+  Rho approximates as 0.00114732316999479. 
+  Delta rho:          3.395288e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 106.793768 seconds.
+Number of points per tori         68000
+  Rho approximates as 0.00114732316999811. 
+  Delta rho:          3.324164e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 110.063978 seconds.
+Number of points per tori         69000
+  Rho approximates as 0.00114732317000134. 
+  Delta rho:          3.223767e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 113.445477 seconds.
+Number of points per tori         70000
+  Rho approximates as 0.00114732317000436. 
+  Delta rho:          3.025358e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 116.717983 seconds.
+Number of points per tori         71000
+  Rho approximates as 0.00114732317000717. 
+  Delta rho:          2.805698e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 120.522749 seconds.
+Number of points per tori         72000
+  Rho approximates as 0.00114732317000968. 
+  Delta rho:          2.509928e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 123.822350 seconds.
+Number of points per tori         73000
+  Rho approximates as 0.00114732317001188. 
+  Delta rho:          2.200280e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 127.358321 seconds.
+Number of points per tori         74000
+  Rho approximates as 0.0011473231700137. 
+  Delta rho:          1.823411e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 131.130168 seconds.
+Number of points per tori         75000
+  Rho approximates as 0.00114732317001518. 
+  Delta rho:          1.475599e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 134.685124 seconds.
+Number of points per tori         76000
+  Rho approximates as 0.00114732317001628. 
+  Delta rho:          1.097213e-15 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 138.098216 seconds.
+Number of points per tori         77000
+  Rho approximates as 0.00114732317001703. 
+  Delta rho:          7.507016e-16 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 141.738374 seconds.
+Number of points per tori         78000
+  Rho approximates as 0.00114732317001743. 
+  Delta rho:          4.067927e-16 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 145.468190 seconds.
+Number of points per tori         79000
+  Rho approximates as 0.00114732317001753. 
+  Delta rho:          1.010476e-16 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 149.653965 seconds.
+Number of points per tori         80000
+  Rho approximates as 0.0011473231700174. 
+  Delta rho:          1.370432e-16 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 152.995909 seconds.
+Number of points per tori         81000
+  Rho approximates as 0.00114732317001703. 
+  Delta rho:          3.623404e-16 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 157.516613 seconds.
+Number of points per tori         82000
+  Rho approximates as 0.00114732317001651. 
+  Delta rho:          5.286570e-16 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 161.027860 seconds.
+Number of points per tori         83000
+  Rho approximates as 0.00114732317001588. 
+  Delta rho:          6.255847e-16 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 165.190792 seconds.
+Number of points per tori         84000
+  Rho approximates as 0.00114732317001517. 
+  Delta rho:          7.149229e-16 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 169.363274 seconds.
+Number of points per tori         85000
+  Rho approximates as 0.00114732317001442. 
+  Delta rho:          7.418111e-16 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 173.067982 seconds.
+Number of points per tori         86000
+  Rho approximates as 0.00114732317001371. 
+  Delta rho:          7.095019e-16 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 176.475057 seconds.
+Number of points per tori         87000
+  Rho approximates as 0.00114732317001306. 
+  Delta rho:          6.548581e-16 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 180.015461 seconds.
+Number of points per tori         88000
+  Rho approximates as 0.00114732317001249. 
+  Delta rho:          5.713745e-16 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 184.001198 seconds.
+Number of points per tori         89000
+  Rho approximates as 0.00114732317001204. 
+  Delta rho:          4.488597e-16 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 188.105959 seconds.
+Number of points per tori         90000
+  Rho approximates as 0.00114732317001176. 
+  Delta rho:          2.816757e-16 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 192.512544 seconds.
+Number of points per tori         91000
+  Rho approximates as 0.00114732317001162. 
+  Delta rho:          1.415968e-16 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 196.852815 seconds.
+Number of points per tori         92000
+  Rho approximates as 0.00114732317001165. 
+  Delta rho:          3.707971e-17 
+  Machine epsilon is  2.168404e-19 
+  Elapsed time is 201.079707 seconds.
+The rotation number is approximately 0.00114732317001165.
+  Elapsed time is 201.080352 seconds.
+

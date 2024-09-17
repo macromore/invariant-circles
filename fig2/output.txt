@@ -1,0 +1,26 @@
+Parameters: 
+P =                      [ 0.400000, 0.000000 ]
+alpha =                  1.328430                      probably acos(something)
+nu =                     1.100000
+initial number of modes  5
+modes used in newton     100
+number of points         5000
+number of points for rho 10^8
+
+Computing the trajectory... Elapsed time is 0.005167 seconds.
+
+How many periodic tori? {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('newtonScript')" style="font-weight:bold">newtonScript</a>
+} 
+phasespacePlot
+close all
+clear
+clc
+phasespacePlot(pi/2)
+close all
+phasespacePlot(acos(-0.95))
+phasespacePlot(pi/4)
+phasespacePlot(pi)
+phasespacePlot(acos(0.24))
+close all
+phasespacePlot(acos(0.24),100,1000)
+phasespacePlot(acos(0.24),150,1000)

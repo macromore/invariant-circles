@@ -1,0 +1,1991 @@
+
+Parameters: 
+P =                      [ 0.000000, 0.100000 ]
+alpha =                  2.82403222429827                    probably acos(something)
+nu =                     1.1
+sobolev space max m =    10
+initial number of modes  10
+Mode step                50
+points per circle        10000
+maximum rho step         0.000316227766016838
+minimum rho step         3.01578298584783e-10
+max tail size            1e-10
+max error                1e-14
+Conjugacy iterations     1000
+rho difference limit     1e-14 
+rho flip                 1
+direction of rho change  1
+
+The rotation number is approximately 0.449359907355478.
+    Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+  Tail size: 1.517125e-15 
+
+Attempt number 3, successful!
+  Success number 1 
+    number of modes    10
+    error              2.735411e-15
+    conjugacy error    4.649225e-16
+    tail size          1.777396e-15
+    rho                0.550643254922182
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 5, successful!
+  Success number 2 
+    number of modes    10
+    error              4.581804e-16
+    conjugacy error    1.575163e-15
+    tail size          6.916296e-15
+    rho                0.550674877698784
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 7, successful!
+  Success number 3 
+    number of modes    10
+    error              3.610951e-16
+    conjugacy error    4.801780e-15
+    tail size          2.017244e-14
+    rho                0.550706500475385
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 9, successful!
+  Success number 4 
+    number of modes    10
+    error              5.057425e-16
+    conjugacy error    1.250390e-14
+    tail size          4.882375e-14
+    rho                0.550738123251987
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 11, successful!
+  Success number 5 
+    number of modes    10
+    error              2.927867e-16
+    conjugacy error    2.858824e-14
+    tail size          1.036976e-13
+    rho                0.550769746028589
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 13, successful!
+  Success number 6 
+    number of modes    10
+    error              4.884341e-16
+    conjugacy error    5.868917e-14
+    tail size          1.999637e-13
+    rho                0.55080136880519
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 15, successful!
+  Success number 7 
+    number of modes    10
+    error              3.693569e-16
+    conjugacy error    1.114456e-13
+    tail size          3.579707e-13
+    rho                0.550832991581792
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 16, successful!
+  Success number 8 
+    number of modes    10
+    error              1.017178e-15
+    conjugacy error    6.972992e-12
+    tail size          1.545581e-11
+    rho                0.551149219347809
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 17, successful!
+  Success number 9 
+    number of modes    60
+    error              7.434188e-17
+    conjugacy error    5.693712e-16
+    tail size          2.620507e-52
+    rho                0.551465447113826
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 18, successful!
+  Success number 10 
+    number of modes    60
+    error              1.100144e-16
+    conjugacy error    5.828936e-16
+    tail size          5.377873e-46
+    rho                0.551781674879843
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 19, successful!
+  Success number 11 
+    number of modes    60
+    error              8.278968e-17
+    conjugacy error    6.662409e-16
+    tail size          6.143055e-46
+    rho                0.552097902645859
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 20, successful!
+  Success number 12 
+    number of modes    60
+    error              1.393988e-16
+    conjugacy error    8.326723e-16
+    tail size          1.552546e-43
+    rho                0.552414130411876
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 21, successful!
+  Success number 13 
+    number of modes    60
+    error              1.485632e-16
+    conjugacy error    8.056121e-16
+    tail size          9.454539e-41
+    rho                0.552730358177893
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 22, successful!
+  Success number 14 
+    number of modes    60
+    error              9.709568e-17
+    conjugacy error    1.026976e-15
+    tail size          4.503954e-39
+    rho                0.55304658594391
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 23, successful!
+  Success number 15 
+    number of modes    60
+    error              2.030266e-16
+    conjugacy error    1.150810e-15
+    tail size          4.062747e-37
+    rho                0.553362813709927
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 24, successful!
+  Success number 16 
+    number of modes    60
+    error              1.470419e-16
+    conjugacy error    1.088712e-15
+    tail size          1.794640e-35
+    rho                0.553679041475943
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 25, successful!
+  Success number 17 
+    number of modes    60
+    error              2.225876e-16
+    conjugacy error    1.113098e-15
+    tail size          1.002032e-34
+    rho                0.55399526924196
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 26, successful!
+  Success number 18 
+    number of modes    60
+    error              1.547854e-16
+    conjugacy error    1.360367e-15
+    tail size          5.926885e-33
+    rho                0.554311497007977
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 27, successful!
+  Success number 19 
+    number of modes    60
+    error              1.945916e-16
+    conjugacy error    1.279413e-15
+    tail size          1.117858e-30
+    rho                0.554627724773994
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 28, successful!
+  Success number 20 
+    number of modes    60
+    error              1.908560e-16
+    conjugacy error    1.520319e-15
+    tail size          1.034188e-27
+    rho                0.554943952540011
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 29, successful!
+  Success number 21 
+    number of modes    60
+    error              5.969855e-16
+    conjugacy error    1.889310e-15
+    tail size          4.163809e-23
+    rho                0.555260180306028
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 30, successful!
+  Success number 22 
+    number of modes    160
+    error              7.993442e-16
+    conjugacy error    5.996234e-15
+    tail size          2.623743e-17
+    rho                0.555576408072044
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 31, successful!
+  Success number 23 
+    number of modes    60
+    error              3.519834e-16
+    conjugacy error    1.637593e-15
+    tail size          4.117626e-22
+    rho                0.555892635838061
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 32, successful!
+  Success number 24 
+    number of modes    60
+    error              3.732731e-16
+    conjugacy error    1.554318e-15
+    tail size          1.106526e-24
+    rho                0.556208863604078
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 33, successful!
+  Success number 25 
+    number of modes    60
+    error              4.599687e-16
+    conjugacy error    2.333549e-15
+    tail size          8.357571e-26
+    rho                0.556525091370095
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 34, successful!
+  Success number 26 
+    number of modes    60
+    error              3.037877e-16
+    conjugacy error    1.887453e-15
+    tail size          3.194244e-26
+    rho                0.556841319136112
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 35, successful!
+  Success number 27 
+    number of modes    60
+    error              4.431340e-16
+    conjugacy error    1.833801e-15
+    tail size          5.622154e-26
+    rho                0.557157546902128
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 36, successful!
+  Success number 28 
+    number of modes    60
+    error              1.823925e-16
+    conjugacy error    2.026276e-15
+    tail size          1.966830e-25
+    rho                0.557473774668145
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 37, successful!
+  Success number 29 
+    number of modes    60
+    error              5.110583e-16
+    conjugacy error    1.999351e-15
+    tail size          8.248403e-25
+    rho                0.557790002434162
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 38, successful!
+  Success number 30 
+    number of modes    60
+    error              3.986043e-16
+    conjugacy error    2.004335e-15
+    tail size          1.336883e-23
+    rho                0.558106230200179
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 39, successful!
+  Success number 31 
+    number of modes    60
+    error              2.657897e-16
+    conjugacy error    2.220805e-15
+    tail size          8.100549e-25
+    rho                0.558422457966196
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 40, successful!
+  Success number 32 
+    number of modes    60
+    error              6.365354e-16
+    conjugacy error    2.331863e-15
+    tail size          2.163411e-23
+    rho                0.558738685732212
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 41, successful!
+  Success number 33 
+    number of modes    60
+    error              3.141733e-16
+    conjugacy error    2.997907e-15
+    tail size          2.839670e-23
+    rho                0.559054913498229
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 42, successful!
+  Success number 34 
+    number of modes    60
+    error              3.964901e-16
+    conjugacy error    2.442639e-15
+    tail size          1.097591e-22
+    rho                0.559371141264246
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 43, successful!
+  Success number 35 
+    number of modes    60
+    error              2.306578e-16
+    conjugacy error    3.555351e-15
+    tail size          2.704787e-22
+    rho                0.559687369030263
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 44, successful!
+  Success number 36 
+    number of modes    60
+    error              3.667265e-16
+    conjugacy error    2.597928e-14
+    tail size          1.567859e-14
+    rho                0.56000359679628
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 45, successful!
+  Success number 37 
+    number of modes    60
+    error              3.764782e-16
+    conjugacy error    2.999135e-15
+    tail size          7.624880e-22
+    rho                0.560319824562296
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 46, successful!
+  Success number 38 
+    number of modes    60
+    error              3.213930e-16
+    conjugacy error    3.887161e-15
+    tail size          5.373414e-22
+    rho                0.560636052328313
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 47, successful!
+  Success number 39 
+    number of modes    60
+    error              7.117320e-16
+    conjugacy error    4.218891e-15
+    tail size          2.012931e-19
+    rho                0.56095228009433
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 48, successful!
+  Success number 40 
+    number of modes    60
+    error              2.304709e-16
+    conjugacy error    4.441675e-15
+    tail size          3.836217e-20
+    rho                0.561268507860347
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 49, successful!
+  Success number 41 
+    number of modes    60
+    error              6.351512e-16
+    conjugacy error    4.003602e-15
+    tail size          5.757980e-20
+    rho                0.561584735626364
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 50, successful!
+  Success number 42 
+    number of modes    60
+    error              6.524020e-16
+    conjugacy error    3.776561e-15
+    tail size          1.494813e-19
+    rho                0.56190096339238
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 51, successful!
+  Success number 43 
+    number of modes    60
+    error              6.156576e-16
+    conjugacy error    3.885781e-15
+    tail size          1.209908e-17
+    rho                0.562217191158397
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 52, successful!
+  Success number 44 
+    number of modes    60
+    error              1.975222e-15
+    conjugacy error    1.917924e-10
+    tail size          5.908100e-12
+    rho                0.562533418924414
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 53, successful!
+  Success number 45 
+    number of modes    60
+    error              4.652973e-16
+    conjugacy error    4.664055e-15
+    tail size          1.432555e-17
+    rho                0.562849646690431
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 54, successful!
+  Success number 46 
+    number of modes    60
+    error              7.356482e-16
+    conjugacy error    5.273560e-15
+    tail size          1.435367e-18
+    rho                0.563165874456448
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 55, successful!
+  Success number 47 
+    number of modes    60
+    error              2.941299e-16
+    conjugacy error    4.885585e-15
+    tail size          4.034766e-18
+    rho                0.563482102222465
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 56, successful!
+  Success number 48 
+    number of modes    60
+    error              4.004390e-16
+    conjugacy error    5.108601e-15
+    tail size          9.322722e-18
+    rho                0.563798329988481
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 57, successful!
+  Success number 49 
+    number of modes    60
+    error              1.168953e-15
+    conjugacy error    6.108636e-15
+    tail size          1.638996e-15
+    rho                0.564114557754498
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 58, successful!
+  Success number 50 
+    number of modes    60
+    error              8.564530e-16
+    conjugacy error    6.218828e-15
+    tail size          6.444228e-18
+    rho                0.564430785520515
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 59, successful!
+  Success number 51 
+    number of modes    60
+    error              6.286350e-16
+    conjugacy error    5.331021e-15
+    tail size          2.504716e-17
+    rho                0.564747013286532
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 60, successful!
+  Success number 52 
+    number of modes    60
+    error              5.481954e-16
+    conjugacy error    6.550590e-15
+    tail size          3.171565e-15
+    rho                0.565063241052549
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 61, successful!
+  Success number 53 
+    number of modes    60
+    error              6.601013e-16
+    conjugacy error    1.066482e-14
+    tail size          7.953820e-15
+    rho                0.565379468818565
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 62, successful!
+  Success number 54 
+    number of modes    60
+    error              5.996527e-16
+    conjugacy error    6.661713e-15
+    tail size          8.994204e-16
+    rho                0.565695696584582
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 63, successful!
+  Success number 55 
+    number of modes    60
+    error              1.143724e-15
+    conjugacy error    1.111892e-13
+    tail size          1.379910e-13
+    rho                0.566011924350599
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 64, successful!
+  Success number 56 
+    number of modes    60
+    error              4.101209e-16
+    conjugacy error    2.109804e-14
+    tail size          2.093277e-14
+    rho                0.566328152116616
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 65, successful!
+  Success number 57 
+    number of modes    60
+    error              7.318456e-16
+    conjugacy error    6.589729e-11
+    tail size          3.762963e-12
+    rho                0.566644379882633
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 66, successful!
+  Success number 58 
+    number of modes    60
+    error              1.767689e-15
+    conjugacy error    2.598001e-14
+    tail size          1.539334e-14
+    rho                0.566960607648649
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 67, successful!
+  Success number 59 
+    number of modes    60
+    error              5.788445e-16
+    conjugacy error    3.930334e-14
+    tail size          2.961638e-14
+    rho                0.567276835414666
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 68, successful!
+  Success number 60 
+    number of modes    60
+    error              1.741038e-15
+    conjugacy error    1.064060e-11
+    tail size          8.414022e-12
+    rho                0.567593063180683
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 69, successful!
+  Success number 61 
+    number of modes    60
+    error              6.885336e-16
+    conjugacy error    6.838974e-13
+    tail size          5.600459e-13
+    rho                0.5679092909467
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 70, successful!
+  Success number 62 
+    number of modes    60
+    error              1.752570e-15
+    conjugacy error    6.323941e-11
+    tail size          5.468147e-11
+    rho                0.568225518712717
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 71, successful!
+  Success number 63 
+    number of modes    60
+    error              1.294004e-15
+    conjugacy error    8.578960e-11
+    tail size          8.240742e-11
+    rho                0.568541746478733
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 72, successful!
+  Success number 64 
+    number of modes    110
+    error              5.978238e-16
+    conjugacy error    8.437716e-15
+    tail size          9.778328e-18
+    rho                0.56885797424475
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 73, successful!
+  Success number 65 
+    number of modes    110
+    error              6.078133e-16
+    conjugacy error    6.886125e-15
+    tail size          1.277832e-16
+    rho                0.569174202010767
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 74, successful!
+  Success number 66 
+    number of modes    110
+    error              1.020004e-15
+    conjugacy error    2.797764e-14
+    tail size          8.162930e-15
+    rho                0.569490429776784
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 75, successful!
+  Success number 67 
+    number of modes    110
+    error              9.000348e-16
+    conjugacy error    3.277600e-12
+    tail size          1.334272e-12
+    rho                0.569806657542801
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 76, successful!
+  Success number 68 
+    number of modes    110
+    error              1.255561e-15
+    conjugacy error    2.943690e-11
+    tail size          1.426585e-11
+    rho                0.570122885308817
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 77, successful!
+  Success number 69 
+    number of modes    110
+    error              1.336192e-15
+    conjugacy error    3.747824e-10
+    tail size          6.612714e-11
+    rho                0.570439113074834
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 78, successful!
+  Success number 70 
+    number of modes    160
+    error              3.373884e-15
+    conjugacy error    4.276370e-10
+    tail size          6.959029e-11
+    rho                0.570755340840851
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 80, successful!
+  Success number 71 
+    number of modes    210
+    error              2.545666e-15
+    conjugacy error    1.393419e-11
+    tail size          1.156540e-12
+    rho                0.570786963617453
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 82, successful!
+  Success number 72 
+    number of modes    210
+    error              2.023520e-15
+    conjugacy error    2.087175e-11
+    tail size          2.672890e-12
+    rho                0.570818586394055
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 84, successful!
+  Success number 73 
+    number of modes    210
+    error              3.168628e-15
+    conjugacy error    4.327566e-11
+    tail size          6.674521e-12
+    rho                0.570850209170656
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 86, successful!
+  Success number 74 
+    number of modes    210
+    error              3.853641e-15
+    conjugacy error    1.066355e-10
+    tail size          1.791725e-11
+    rho                0.570881831947258
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 88, successful!
+  Success number 75 
+    number of modes    210
+    error              6.463057e-15
+    conjugacy error    2.939964e-10
+    tail size          5.080220e-11
+    rho                0.57091345472386
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 91, successful!
+  Success number 76 
+    number of modes    210
+    error              7.648490e-15
+    conjugacy error    3.256879e-10
+    tail size          5.652180e-11
+    rho                0.57091661700152
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 94, successful!
+  Success number 77 
+    number of modes    210
+    error              6.161477e-15
+    conjugacy error    3.584930e-10
+    tail size          6.291074e-11
+    rho                0.57091977927918
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 97, successful!
+  Success number 78 
+    number of modes    210
+    error              7.426017e-15
+    conjugacy error    3.945646e-10
+    tail size          7.004945e-11
+    rho                0.57092294155684
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 100, successful!
+  Success number 79 
+    number of modes    210
+    error              8.694331e-15
+    conjugacy error    4.387452e-10
+    tail size          7.802822e-11
+    rho                0.5709261038345
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 103, successful!
+  Success number 80 
+    number of modes    210
+    error              8.137117e-15
+    conjugacy error    4.877994e-10
+    tail size          8.694842e-11
+    rho                0.570929266112161
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 106, successful!
+  Success number 81 
+    number of modes    210
+    error              7.887379e-15
+    conjugacy error    5.423231e-10
+    tail size          9.692393e-11
+    rho                0.570932428389821
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 110, successful!
+  Success number 82 
+    number of modes    210
+    error              8.551433e-15
+    conjugacy error    5.482197e-10
+    tail size          9.798432e-11
+    rho                0.570932744617587
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 114, successful!
+  Success number 83 
+    number of modes    210
+    error              9.441455e-15
+    conjugacy error    5.541674e-10
+    tail size          9.905666e-11
+    rho                0.570933060845353
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 119, successful!
+  Success number 84 
+    number of modes    210
+    error              8.297346e-15
+    conjugacy error    5.547882e-10
+    tail size          9.916456e-11
+    rho                0.570933092468129
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 124, successful!
+  Success number 85 
+    number of modes    210
+    error              9.266209e-15
+    conjugacy error    5.553900e-10
+    tail size          9.927258e-11
+    rho                0.570933124090906
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 129, successful!
+  Success number 86 
+    number of modes    210
+    error              9.150605e-15
+    conjugacy error    5.559984e-10
+    tail size          9.938071e-11
+    rho                0.570933155713683
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 134, successful!
+  Success number 87 
+    number of modes    210
+    error              9.526183e-15
+    conjugacy error    5.566041e-10
+    tail size          9.948898e-11
+    rho                0.570933187336459
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 139, successful!
+  Success number 88 
+    number of modes    210
+    error              7.938647e-15
+    conjugacy error    5.571930e-10
+    tail size          9.959736e-11
+    rho                0.570933218959236
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 144, successful!
+  Success number 89 
+    number of modes    210
+    error              8.183974e-15
+    conjugacy error    5.577929e-10
+    tail size          9.970586e-11
+    rho                0.570933250582012
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 149, successful!
+  Success number 90 
+    number of modes    210
+    error              8.893980e-15
+    conjugacy error    5.583956e-10
+    tail size          9.981449e-11
+    rho                0.570933282204789
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 154, successful!
+  Success number 91 
+    number of modes    210
+    error              8.218425e-15
+    conjugacy error    5.589946e-10
+    tail size          9.992323e-11
+    rho                0.570933313827566
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 160, successful!
+  Success number 92 
+    number of modes    210
+    error              8.704062e-15
+    conjugacy error    5.590421e-10
+    tail size          9.993412e-11
+    rho                0.570933316989843
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 166, successful!
+  Success number 93 
+    number of modes    210
+    error              9.226241e-15
+    conjugacy error    5.591065e-10
+    tail size          9.994500e-11
+    rho                0.570933320152121
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 172, successful!
+  Success number 94 
+    number of modes    210
+    error              9.485394e-15
+    conjugacy error    5.591643e-10
+    tail size          9.995588e-11
+    rho                0.570933323314399
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 178, successful!
+  Success number 95 
+    number of modes    210
+    error              9.003016e-15
+    conjugacy error    5.592224e-10
+    tail size          9.996677e-11
+    rho                0.570933326476676
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 184, successful!
+  Success number 96 
+    number of modes    210
+    error              9.624197e-15
+    conjugacy error    5.592895e-10
+    tail size          9.997765e-11
+    rho                0.570933329638954
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 190, successful!
+  Success number 97 
+    number of modes    210
+    error              8.796994e-15
+    conjugacy error    5.593419e-10
+    tail size          9.998854e-11
+    rho                0.570933332801232
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+
+
+Attempt number 196, successful!
+  Success number 98 
+    number of modes    210
+    error              8.327692e-15
+    conjugacy error    5.594059e-10
+    tail size          9.999943e-11
+    rho                0.570933335963509
+  Sobolev Norms:
+    k = 1 norm is 0.000000e+00 
+    k = 2 norm is 0.000000e+00 
+    k = 3 norm is 0.000000e+00 
+    k = 4 norm is 0.000000e+00 
+    k = 5 norm is 0.000000e+00 
+    k = 6 norm is 0.000000e+00 
+    k = 7 norm is 0.000000e+00 
+    k = 8 norm is 0.000000e+00 
+    k = 9 norm is 0.000000e+00 
+    k = 10 norm is 0.000000e+00 
+

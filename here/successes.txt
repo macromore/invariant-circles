@@ -1,0 +1,28 @@
+
+Parameters: 
+P =                      [ 0.000000, -2.650000 ]
+alpha =                  2.82403222429827                    probably acos(something)
+nu =                     1.00001
+sobolev space max m =    10
+initial number of modes  20
+Mode step                20
+points per circle        12000
+max tail size            1e-14
+max error                1e-14
+Conjugacy iterations     100
+rho difference limit     1e-16 
+rho flip                 1
+
+The rotation number is approximately 0.00114732317001755.
+    Sobolev Norms:
+    k = 1 norm is 3.785425e+00 
+    k = 2 norm is 3.785491e+00 
+    k = 3 norm is 3.786999e+00 
+    k = 4 norm is 1.296593e+01 
+    k = 5 norm is 1.462129e+02 
+    k = 6 norm is 1.955529e+03 
+    k = 7 norm is 2.878856e+04 
+    k = 8 norm is 4.467455e+05 
+    k = 9 norm is 7.201143e+06 
+    k = 10 norm is 1.202595e+08 
+  Tail size: 4.410368e-06 

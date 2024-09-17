@@ -1,0 +1,108 @@
+Parameters: 
+P =                      [ 0.000000, 0.100000 ]
+alpha =                  2.82403222429827          probably acos(something)
+nu =                     1.1
+sobolev max space m =    10
+initial number of modes  10
+Mode step                50
+points per circle        10000
+maximum rho step         0.0001
+minimum rho step         9.5367431640625e-11
+max tail size            1e-10
+max error                1e-14
+Conjugacy iterations     1000
+rho difference limit     1e-14 
+rho flip                 1
+direction of rho change  1
+
+Computing the trajectory... 
+  Elapsed time is 0.003100 seconds.
+
+How many periodic tori? {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('numericalContinuation_1')" style="font-weight:bold">numericalContinuation_1</a>
+} 
+numericalcontinuationpicture
+Elapsed time is 1.470466 seconds.
+Parameters: 
+P =                      [ 0.000000, 0.100000 ]
+alpha =                  2.82403222429827          probably acos(something)
+nu =                     1.1
+sobolev max space m =    10
+initial number of modes  15
+Mode step                50
+points per circle        10000
+maximum rho step         0.0001
+minimum rho step         9.5367431640625e-11
+max tail size            1e-10
+max error                1e-14
+Conjugacy iterations     1000
+rho difference limit     1e-14 
+rho flip                 1
+Computing the trajectory... 
+  Elapsed time is 1.493276 seconds.
+
+
+Separate the trajecotory... 
+ Elapsed time is 1.888084 seconds.
+
+Finding periodic points ... 
+  Elapsed time is 1.894506 seconds.
+
+Compute the rotation number... 
+Number of points per tori         1000
+  Rho approximates as 0.449359907355478. 
+  Machine epsilon is  5.551115e-17 
+  Elapsed time is 1.903828 seconds.
+Number of points per tori         2000
+  Rho approximates as 0.449359907355478. 
+  Delta rho:          2.220446e-16 
+  Machine epsilon is  5.551115e-17 
+  Elapsed time is 1.907346 seconds.
+The rotation number is approximately 0.449359907355478.
+  Elapsed time is 1.908425 seconds.
+
+Compute the initial Fourier modes with 15 initial modes... 
+  Elapsed time is 2.158840 seconds.
+
+    Flipped rho is 0.550640092644522.
+
+Compute initial parameterization error with nu = 1.1 ... 
+    Error           = 1.158070e-02 
+  Conjugacy Error = 1.827775e-13 
+  Elapsed time is 2.357063 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 9.009678e-14 
+        conjugacy error = 2.533807e-14 
+    Iteration 2, error = 1.866509e-17 
+        conjugacy error = 1.696860e-16 
+    Iteration 3, error limit exceeded 
+
+  Sobolev Norms:
+    k = 1 norm is 1.001671e-01 
+    k = 2 norm is 1.418197e-01 
+    k = 3 norm is 2.011980e-01 
+    k = 4 norm is 2.868219e-01 
+    k = 5 norm is 4.136956e-01 
+    k = 6 norm is 6.131467e-01 
+    k = 7 norm is 9.623641e-01 
+    k = 8 norm is 1.668569e+00 
+    k = 9 norm is 3.295009e+00 
+    k = 10 norm is 7.407307e+00 
+  Tail size: 8.902189e-23 
+
+Starting AC in 2 seconds{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('numericalcontinuationpicture')" style="font-weight:bold">numericalcontinuationpicture</a>
+} 
+{Operation terminated by user during matlab.graphics.controls.internal.ToolbarValidator.isValidIcon
+
+
+In matlab.graphics.controls.AxesToolbarButton/set.Icon
+
+In matlab.graphics.controls.AxesToolbarButton
+
+In matlab.ui.controls.ToolbarStateButton
+
+In matlab.graphics.controls.internal.PostUpdatePlugin.doCacheLoad
+
+In matlab.graphics.controls.internal.PostUpdatePlugin>@()matlab.graphics.controls.internal.PostUpdatePlugin.doCacheLoad(canvasParent)
+} 
+numericalcontinuationpicture

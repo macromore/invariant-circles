@@ -1,0 +1,23 @@
+Parameters: 
+P =                      [ 0.000000, -2.650000 ]
+alpha =                  2.82403222429827          probably acos(something)
+nu =                     1.1
+sobolev max space m =    10
+initial number of modes  150
+Mode step                50
+points per circle        12000
+maximum rho step         0.001
+minimum rho step         0.00025
+max tail size            1e-14
+max error                1e-14
+Conjugacy iterations     1000
+rho difference limit     1e-16 
+rho flip                 1
+direction of rho change  1
+
+Computing the trajectory... 
+  Elapsed time is 0.011013 seconds.
+
+How many periodic tori? {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('numericalContinuation', 'C:\Users\laser\Dropbox\invCircles\Henon Map\numericalContinuation.m', 148)" style="font-weight:bold">numericalContinuation</a> (<a href="matlab: opentoline('C:\Users\laser\Dropbox\invCircles\Henon Map\numericalContinuation.m',148,0)">line 148</a>)
+} 
+numericalContinuation

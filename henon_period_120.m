@@ -3,7 +3,7 @@
 clearAll
 %% Set up parameter variables %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Banach Space Parameter
-nu = 1.1;
+nu = 1.00001;
 % Do we need to replace rho with 1-rho
 rhoFlip = 1;
 % Error limit on rho
@@ -15,11 +15,11 @@ tailLimit = 14;
 % Sobolev space H^m max
 sobolevMax = 10;
 % Conjugacy check max
-conjMax = 1000;
+conjMax = 100;
 %% Example 3 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 alpha = acos(-0.95);
 initialP = [0,-2.65];
-initialModes = 15;
+initialModes = 20;
 numPoints = 12000;
 %% Plot color %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 color = 'g';
@@ -92,7 +92,7 @@ fprintf('Compute the rotation number... \n')
 rhoMultiplier = 1;
 diffRho = 1;
 numPointsRho = 0;
-while diffRho > 10^-rhoLimit && numPointsRho < 10^10
+while diffRho > 2.5*10^-rhoLimit && numPointsRho < 10^10
     % Start with 1000 points per tori and add 1000 each iteration
     numPointsRho = K*1000*rhoMultiplier; 
     fprintf('Number of points per tori         %d\n', 1000*rhoMultiplier)
@@ -149,6 +149,9 @@ fprintf('\n')
 %% Initial Newton-like operation %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 fprintf('Carry out newton-like method...\n')
 newtonIter = 0;
+
+tic
+
 while newtonIter < 10 || defectError >= 10^-errorLimit
     [betaNew, paramNew] = newtonStep(beta, param, alpha, rho, phase);
     defectErrorNew = normPhi(betaNew, paramNew, alpha, rho, phase, nu);
@@ -169,6 +172,10 @@ while newtonIter < 10 || defectError >= 10^-errorLimit
         break
     end
 end % while loop
+
+NewtonTime = toc
+
+
 fprintf('\n')
 %% Compute initial sobolev norm and tail value %%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 sobolevGrid = zeros(sobolevMax,1);

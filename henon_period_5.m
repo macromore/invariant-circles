@@ -3,7 +3,7 @@
 clearAll
 %% Set up parameter variables %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Banach Space Parameter
-nu = 1.1;
+nu = 1.001;
 % Do we need to replace rho with 1-rho
 rhoFlip = 1;
 % Error limit on rho
@@ -15,12 +15,15 @@ tailLimit = 14;
 % Sobolev space H^m max
 sobolevMax = 10;
 % Conjugacy check max
-conjMax = 1000;
+conjMax = 100;
+
+modeStep = 20
+
 %% Example 2 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 alpha = acos(0.24);
 initialP = [0.5,0];
-initialModes = 30;
-numPoints = 1e3;
+initialModes = 150;
+numPoints = 5e3;
 %% Plot color %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 color = 'g';
 %% Ask for a file name for the diary output %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -28,6 +31,9 @@ fname = input('Name folder for output? (can be root/folder, etc.) ','s');
 mkdir(fname);
 diary(strcat('./',fname,'/output.txt'))
 successFile = fopen(strcat('./', fname, '/successes.txt'), 'w');
+
+
+
 %% Header information for the file %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 fprintf('Parameters: \n')
 fprintf(['P =', repmat(' ',1,22),'[ %f, %f ]\n'], initialP(1),initialP(2))
@@ -64,7 +70,7 @@ fprintf(successFile, '\n');
 fprintf('Computing the trajectory... \n  ')
 tic
 trajectory = pointTrajectory(initialP, alpha, numPoints);
-toc
+time1 = toc
 fprintf('\n')
 %% Plot trajectory and figure hold %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 figTrajectory = figure(1);
@@ -74,7 +80,9 @@ set(figTrajectory, 'Name', 'Trajectory and Initial Parameterization');
 hold on
 phasespacePlot(alpha)
 plot(trajectory(1,:),trajectory(2,:),'.g');
-axis([-4 4 -4 4]) % Do I need to do this?
+axis([-1 1 -1 1]) % Do I need to do this?
+
+
 %% Separate the orbits %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 K = 5;
 fprintf('\nSeparate the trajecotory... \n  ')
@@ -146,9 +154,14 @@ fprintf('Error           = %e \n  ', defectError)
 fprintf('Conjugacy Error = %e \n  ', conjError)
 toc
 fprintf('\n')
+
+
+
 %% Initial Newton-like operation %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 fprintf('Carry out newton-like method...\n')
 newtonIter = 0;
+
+tic
 while newtonIter < 10 || defectError >= 10^-errorLimit
     [betaNew, paramNew] = newtonStep(beta, param, alpha, rho, phase);
     defectErrorNew = normPhi(betaNew, paramNew, alpha, rho, phase, nu);
@@ -170,6 +183,9 @@ while newtonIter < 10 || defectError >= 10^-errorLimit
     end
 end % while loop
 fprintf('\n')
+NewtonTime = toc
+
+
 %% Compute initial sobolev norm and tail value %%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 sobolevGrid = zeros(sobolevMax,1);
     fprintf('  Sobolev Norms:\n');
@@ -184,8 +200,14 @@ endValue = maxEndVal(param);
 fprintf('  Tail size: %e \n', endValue)
 fprintf(successFile, '  Tail size: %e \n', endValue);
 %% Plot initial newton output %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+figure 
+hold on 
 figure(figTrajectory);
 fourierCellPlot(param, 'k')
+axis([-1.1 1.1 -1.1 1.1])
+
+
 %% Plot initial newton output on new figure %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 figParameterization = figure(2);
 fourierCellPlot(param, 'k')
